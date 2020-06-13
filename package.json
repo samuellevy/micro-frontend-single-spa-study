@@ -10,6 +10,8 @@
     "build": "webpack"
   },
   "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "single-spa": "^5.5.3",
     "single-spa-react": "^2.14.0",
     "single-spa-vue": "^1.8.2"
