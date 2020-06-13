@@ -53,5 +53,6 @@ module.exports = {
   externals: [],
   devServer: {
     historyApiFallback: true,
+    port: 8080,
   },
 };
